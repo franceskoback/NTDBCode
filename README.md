@@ -4,8 +4,8 @@ This repository contains code and notebooks related to the analysis of acute com
 
 ### Authors: Frances Koback, on work for ACS project with Dr. Marmor at UCSF, in collaboration with Vivian Kwok, Safa Herfat, and Amrisha Maharaj 
 
-###### Original Code:
-###### Overview:
+#### Original Code:
+##### Overview:
 The original code comprises scripts and notebooks used for data preprocessing, exploratory data analysis (EDA), and initial modeling. It includes:
 
 #### Data Preparation:
