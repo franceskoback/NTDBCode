@@ -1,7 +1,8 @@
 # Predicting Acute Compartment Syndrome Risk
 
 This repository contains code and notebooks related to the analysis of acute compartment syndrome (ACS) risk prediction using the National Trauma Data Bank (NTDB). The project explores various aspects, including patient demographics, fracture locations, and machine learning techniques for predicting ACS outcomes.
-Code to analyze the NTDB data for the ACS Project with Dr. Marmor 
+
+### Authors: Frances Koback, on work for ACS project with Dr. Marmor at UCSF, in collaboration with Vivian Kwok, Safa Herfat, and Amrisha Maharaj 
 
 #### Original Code:
 ###### Overview:
