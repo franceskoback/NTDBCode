@@ -49,7 +49,7 @@ Adjust parameters such as runtime and model selection in AutoML for customizatio
 - Python (3.10.9) 
 - Jupyter Notebooks 
 - Necessary libraries noted in the notebooks themselves
-- 
+  
 ## Credits
 All code contained in these folders is my own, please cite Frances Koback (frances.l.koback.med@dartmouth.edu) 
 
